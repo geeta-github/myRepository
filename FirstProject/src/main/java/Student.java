@@ -30,7 +30,7 @@ public class Student {
 	public String reverseName(String name)
 	{
 		String rName = "";
-		
+		System.out.println("Reverse the string");
 		return rName;
 	}
 	
